@@ -1,3 +1,6 @@
+https://www.happycoders.eu/algorithms/shortest-path-algorithm-java/
+
+
 # Pathfinding Algorithms
 
 [![Build](https://github.com/SvenWoltmann/pathfinding/actions/workflows/build.yml/badge.svg)](https://github.com/SvenWoltmann/pathfinding/actions/workflows/build.yml)
